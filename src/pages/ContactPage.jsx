@@ -13,7 +13,7 @@ const ContactPage = () => {
           <h2>General Enquiries</h2>
           <p>
             <b>Vivekanand College Main Campus</b><br/>
-          [Your College Full Address Here, e.g., Mahatma Gandhi Road, Chembur, Mumbai,<br/> Maharashtra 400071]
+           2130, E Ward, Tarabai Park, Kolhapur, <br/> Maharashtra 400071
              <br/>India</p>
           <p>Phone: **+91 12345 67890**<br/>
              Email: **info@vivekanandcollege.edu**<br/>
