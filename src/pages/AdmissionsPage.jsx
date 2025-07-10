@@ -79,6 +79,7 @@ const AdmissionsPage = () => {
       
     </div>
     </div>
+    
   );
 };
 export default AdmissionsPage;

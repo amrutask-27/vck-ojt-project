@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 const HomePage = () => {
   return(
+      
     <div className="main-container">
     <div className="page-container" style={{ overflow:"auto" }}>
       
@@ -43,9 +44,11 @@ const HomePage = () => {
         <Link to="/courses" className="btn" >Explore Courses</Link>
         </div>
       
-
+     
     </div>
     </div>
+    
+   
   )
 }
 export default HomePage;

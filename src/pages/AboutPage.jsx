@@ -31,7 +31,7 @@ const AboutPage = () => {
           education available to all, and we continue that legacy today.
       </p>
     </div>
-    </div>
+   </div>
   );
 }
 export default AboutPage;

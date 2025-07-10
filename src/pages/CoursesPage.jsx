@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 const CoursesPage = () => {
   return (
     <div className="main-container">
+   
     <div className="page-container" style={{overflow:"auto"}}>
       <h1>Our Academic Programs</h1>
       <p>
@@ -110,7 +111,7 @@ const CoursesPage = () => {
         <Link to="/contact" className="btn">Inquire About Courses</Link>
       </div>
     </div>
-    </div>
+   </div>
   );
 }
 export default CoursesPage;
